@@ -1,0 +1,3 @@
+test_01_Pools_button_refresh_dim_mapping_1___46030____Pools__ (trusts_edit_test.TrustsEditTest) ... ok
+test_01_Pools_button_refresh_dim_mapping_2___46030____Tranches__ (trusts_edit_test.TrustsEditTest) ... ok
+test_01_Pools_button_refresh_dim_mapping_3___46030____Triggers__ (trusts_edit_test.TrustsEditTest) ... 

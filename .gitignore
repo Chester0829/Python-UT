@@ -1,0 +1,9 @@
+.project
+.pydevproject
+**/.idea/
+**/.settings/
+**/logs/
+**/report/
+**/__pycache__/*
+test.txt
+debug.log
